@@ -1,0 +1,25 @@
+{
+  "name": "@xts-ds/design-tokens",
+  "version": "1.0.0",
+  "description": "Repo to make designer and developer workflow seamless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodloha/design-tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodloha/design-tokens/issues"
+  },
+  "homepage": "https://github.com/vinodloha/design-tokens#readme",
+  "devDependencies": {
+    "chokidar": "^3.4.2",
+    "np": "^6.5.0",
+    "style-dictionary": "^2.10.1"
+  }
+}
