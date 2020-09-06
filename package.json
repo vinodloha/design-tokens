@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Repo to make designer and developer workflow seamless",
   "main": "index.js",
+  "files":[
+    "dist",
+    "src"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./index.js"
+    "build": "node ./index.js",
+    "publish": ""
   },
   "repository": {
     "type": "git",
