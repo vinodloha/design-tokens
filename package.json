@@ -1,6 +1,6 @@
 {
   "name": "@xts-ds/design-tokens",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Repo to make designer and developer workflow seamless",
   "main": "index.js",
   "files": [
