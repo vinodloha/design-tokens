@@ -120,7 +120,7 @@
         },
         "primary": {
           "base": {
-            "value": "rgba(65,170,255,1)"
+            "value": "rgba(245,36,45,1)"
           },
           "active": {
             "value": "rgba(255,251,231,1)"
